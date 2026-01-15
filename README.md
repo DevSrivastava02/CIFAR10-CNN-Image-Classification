@@ -18,7 +18,7 @@ python -m streamlit run app.py
 
 🖼️ Output Preview
 
-(Add screenshot of Streamlit app output here)
+<img width="2784" height="1536" alt="Image" src="https://github.com/user-attachments/assets/5705a56e-35ec-4534-a3b3-c79f65736865" />
 
 🌐 Live Deployment
 
